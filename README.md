@@ -1,2 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBc0xnRGJBNDVLVE1YdW10eldoZg@84.247.50.10:8389#Relay_%f0%9f%87%b3%f0%9f%87%b4NO-%f0%9f%87%b3%f0%9f%87%b4NO_624
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7rwn4e4X1VTX+e+juWbvSIsDQogICJhZGQiOiAiMjA4Ljk4LjQ4LjIiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiYWJhNTBkZDQtNTQ4NC0zYjA1LWIxNGEtNDY2MWNhZjg2MmQ1IiwNCiAgImFpZCI6ICI0IiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJpZXNlaTFlaS5jb20iLA0KICAicGF0aCI6ICIvd3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIg0KfQ==
+trojan://ed61c45d-daf4-3065-9305-8a02f81a1df0@us1.shanjun.me:80?allowInsecure=0&sni=us1.shanjun.me#%e7%be%8e%e5%9b%bd1%7c%e5%85%8d%e8%b4%b9%e8%8a%82%e7%82%b9
+trojan://ed61c45d-daf4-3065-9305-8a02f81a1df0@trojan.shanjun.me:443?allowInsecure=0&sni=trojan.shanjun.me#%e7%be%8e%e5%9b%bd%7cTrojan
+trojan://ed61c45d-daf4-3065-9305-8a02f81a1df0@us4.luohuaxian.xyz:8080?allowInsecure=0&sni=us4.luohuaxian.xyz#%e7%be%8e%e5%9b%bd4%7c%e5%85%8d%e8%b4%b9%e8%8a%82%e7%82%b9
